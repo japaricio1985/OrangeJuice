@@ -1,0 +1,115 @@
+body {
+	margin: 0;
+	display: inline-block;
+	font-family: 'Dosis', sans-serif;
+}
+
+nav img {
+	width: 25px;
+	padding-left: 50px; 
+}
+span {
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.comments {
+	display: inline-block;
+}
+
+.comments span {
+	color: #ff990a;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.comments span.web {
+	color: #7ACCC8;
+}
+
+.comments span.app {
+	color: #7ACCC8;
+}
+ul {
+	display: inline-block;
+	padding-left: 594px;
+	padding-right: 101px; 
+}
+
+li {
+	color: white;
+	display: inline-block;
+	text-align: right;
+	padding: 15px;
+	font: 35px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+h3 {
+	color: white;
+	font-weight: 100;
+	margin-bottom: 1px;
+	margin-left: 0px;
+}
+button.studies {
+	color: white;
+	background-color: #7ACCC8;
+	border-color: #7ACCC8;
+	border-top-width: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+button.quote {
+	color: white;
+	background-color: #ff990a;
+	border-color: #ff990a;
+	border-top-width: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.navigation {
+	background-color: #ff990a;
+	padding: 0 auto;
+	border: 0 auto;
+	margin: 0 auto;
+}
+.pic{
+	display: inline-block;
+	padding-left: 225px; 
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.search{
+	display: inline-block;
+	float: right;
+}
+
+.comments {
+	color: #ff990a;
+	font-size: 30px;
+	margin-left: 158px;
+}
+
+.footer {
+	background-color: #7ACCC8;
+	padding-top: 25px;
+	border: 0 auto;
+	margin: 0 auto;
+}
+
+input {
+	margin-right: 46px;
+}
+
+i.fa.fa-search {
+	color: grey;
+	position: relative;
+	right: 72px;
+	top: 1px;
+}
